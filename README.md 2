@@ -1,0 +1,12 @@
+# Day 2 – Bash & SQL Practice
+
+## Bash Script
+- **check_disk_space.sh**: Checks the available disk space on the server.
+
+## SQL Query
+- **example_query.sql**: Simple SQL query to select data from a sample table.
+
+### How to Run
+**Bash:**
+```bash
+bash check_disk_space.sh
